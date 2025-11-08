@@ -1,7 +1,5 @@
-# D3 - Green CPU
+# Custom 16-bit RISC-V Style Processor Core
 
-### Custom 16-bit RISC-V Style Processor Core
+Welcome to **Silicon Sprint**, a National-Level 24-hour hackathon. This Problem Statement aims to design and implement a custom 16-bit Instruction Set Architecture (ISA) and its corresponding processor using Verilog HDL.
 
-The objective of this project is to design and implement a custom Instruction Set Architecture (ISA) and its corresponding processor using Verilog HDL. The ISA must be defined such that all instructions are 16 bits wide, and the processor includes 8 General Purpose Registers (GPRs).
-
----
+Starting from a basic single-cycle core, the design evolves into a fully pipelined processor featuring an IEEE 754 compliant half-precision Floating-Point Unit (FPU) and a custom cryptographic co-processor. This repository showcases our journey through defining a custom ISA, handling pipeline hazards, and integrating specialized hardware accelerators under tight time constraints.
