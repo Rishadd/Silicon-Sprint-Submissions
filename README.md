@@ -1,4 +1,4 @@
-# Custom 16-bit RISC-V Style Processor Core
+# D3-Green CPU
 
 Welcome to **Silicon Sprint**, a National-Level 24-hour hackathon. This Problem Statement aims to design and implement a custom 16-bit Instruction Set Architecture (ISA) and its corresponding processor using Verilog HDL.
 
